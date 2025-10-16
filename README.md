@@ -3,6 +3,7 @@
 Infrastructure automation lab using **Ansible** to configure two **Debian 13** virtual machines managed by **Libvirt**.
 
 ## 🧱 Project structure
+```
 
 ansible-debian-infra/
 ├── ansible.cfg
@@ -13,6 +14,7 @@ ansible-debian-infra/
 └── roles/
 ├── nginx/
 └── database/
+```
 
 ## ⚙️ Roles
 
